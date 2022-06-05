@@ -12,4 +12,14 @@ I'm 29 old. I have just started my journey of learning web development. My goal 
 * HTML | CSS | JS
 * Figma
 * Photoshop
+# Сode example:
+* >.text {
+* >>>margin: 0;
+* >>>margin-bottom: 30px;
+* >>>max-width: 730px;
+* >>>color: #333;
+* >>>font-size: 20px;
+* >>>line-height: 160%;
+* >>>text-shadow: 1px 1px 10px red;
+* >}
 
