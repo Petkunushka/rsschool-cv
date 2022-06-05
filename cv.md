@@ -22,4 +22,6 @@ I'm 29 old. I have just started my journey of learning web development. My goal 
 * >>>line-height: 160%;
 * >>>text-shadow: 1px 1px 10px red;
 * >}
-
+# Languages:
+* English - B2
+* Russian - Native
